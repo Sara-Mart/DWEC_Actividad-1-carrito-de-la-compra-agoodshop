@@ -1,0 +1,52 @@
+{
+  "currency": "€",
+  "products": [
+	{
+      "SKU": "12359867",
+      "title": "Bolso Ana",
+      "price": "89,95"
+    },
+	{
+      "SKU": "12359123",
+      "title": "Bolso María",
+      "price": "50,95"
+    },
+	{
+      "SKU": "12359456",
+      "title": "Bolso Lara",
+      "price": "78,95"
+    },
+	{
+      "SKU": "12359789",
+      "title": "Bolso Sara",
+      "price": "90,95"
+    },
+	{
+      "SKU": "45659123",
+      "title": "Bolso Keyla",
+      "price": "59,95"
+    },
+	{
+      "SKU": "78959123",
+      "title": "Bolso Andrea",
+      "price": "69,95"
+    },
+	{
+      "SKU": "12312123",
+      "title": "Bolso Laura",
+      "price": "88,95"
+    },
+	{
+      "SKU": "12359123",
+      "title": "Bolso Eli",
+      "price": "98,95"
+    },
+	{
+      "SKU": "12359123",
+      "title": "Bolso Sandra",
+      "price": "79,95"
+    }
+
+    
+  ]
+}
